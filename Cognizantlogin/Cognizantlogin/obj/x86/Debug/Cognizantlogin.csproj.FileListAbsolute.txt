@@ -1,0 +1,8 @@
+D:\AbhiC# projects\Cognizantlogin\Cognizantlogin\bin\Debug\Cognizantlogin.exe
+D:\AbhiC# projects\Cognizantlogin\Cognizantlogin\bin\Debug\Cognizantlogin.pdb
+D:\AbhiC# projects\Cognizantlogin\Cognizantlogin\obj\x86\Debug\Cognizantlogin.Form1.resources
+D:\AbhiC# projects\Cognizantlogin\Cognizantlogin\obj\x86\Debug\Cognizantlogin.Properties.Resources.resources
+D:\AbhiC# projects\Cognizantlogin\Cognizantlogin\obj\x86\Debug\Cognizantlogin.csproj.GenerateResource.Cache
+D:\AbhiC# projects\Cognizantlogin\Cognizantlogin\obj\x86\Debug\Cognizantlogin.exe
+D:\AbhiC# projects\Cognizantlogin\Cognizantlogin\obj\x86\Debug\Cognizantlogin.pdb
+D:\AbhiC# projects\Cognizantlogin\Cognizantlogin\obj\x86\Debug\Cognizantlogin.csprojResolveAssemblyReference.cache
